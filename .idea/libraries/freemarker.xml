@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="freemarker">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../freemarker.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Codes/Factorial/src" />
+      <root url="file://$PROJECT_DIR$/../Codes/SnakeGameProjectGI/src" />
+      <root url="file://$PROJECT_DIR$/../Codes/aloflutter/android/app/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../Codes/aloflutter/build/app/generated/not_namespaced_r_class_sources/debug/processDebugResources/r" />
+      <root url="file://$PROJECT_DIR$/../Codes/aloflutter/build/app/generated/source/buildConfig/debug" />
+      <root url="file://$PROJECT_DIR$/../Codes/laa/src" />
+      <root url="file://$PROJECT_DIR$/../Codes/untitled/src" />
+      <root url="file://$PROJECT_DIR$/src" />
+      <root url="file://$PROJECT_DIR$/../Deneme/src" />
+      <root url="file://$PROJECT_DIR$/../Practise/Practisee/src" />
+      <root url="file://$PROJECT_DIR$/../Practise/src" />
+      <root url="file://$PROJECT_DIR$/../deneme2/src" />
+      <root url="file://$PROJECT_DIR$/../İremDeneme/src" />
+    </SOURCES>
+  </library>
+</component>
